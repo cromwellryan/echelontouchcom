@@ -1,0 +1,20 @@
+{
+  "name": "echelontouchcom",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "2.4.7",
+    "jade": ">= 0.0.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "author": "EchelonTouch Inc <info@echelontouch.com> (http://echelontouch.com)",
+  "description": "Website of EchelonTouch Inc",
+  "homepage": "http://echelontouch.com",
+  "repository": {
+    "url": ""
+  },
+  "main": "app.js"
+}
